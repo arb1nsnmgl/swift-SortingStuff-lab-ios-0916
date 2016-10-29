@@ -60,7 +60,6 @@ struct ToyBin {
  
 }
 
-
 struct Ship {
     var name: String
     var age: Int
